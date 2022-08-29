@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1eb0558b-d2ab-4234-bc5c-12b72ae235ec/microsoft.web/sites/subscriptions/1eb0558b-d2ab-4234-bc5c-12b72ae235ec/resourceGroups/Ansiedade/providers/Microsoft.Web/sites/AnxietyFaceRecognition",
+    "appService.deploySubpath": "."
+}
